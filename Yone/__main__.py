@@ -292,6 +292,7 @@ def yone_about_callback(update: Update, context: CallbackContext):
     ],
     [
         InlineKeyboardButton(text="DEVLOPER", url="https://t.me/thavarajtj"),
+ ],
 ]),
                 parse_mode=ParseMode.MARKDOWN,
                 timeout=60,
