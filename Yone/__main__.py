@@ -188,7 +188,7 @@ def start(update: Update, context: CallbackContext):
     ],
     [
         InlineKeyboardButton(text="SUPPORT_CHAT", url="https://t.me/Alinallmovies"),
-        InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/Techno_Trickop"),
+        InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/throwpathidpworld"),
     ],
     [
       InlineKeyboardButton(text="DEVLOPER", url="https://t.me/thavarajtj"),
@@ -253,7 +253,7 @@ def yone_about_callback(update: Update, context: CallbackContext):
                 [
                    [
                      InlineKeyboardButton(text="SUPPORT_CHAT", url="https://t.me/Alinallmovies"),
-                     InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/Techno_Trickop"),
+                     InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/throwpathidpworld"),
                      InlineKeyboardButton(text="DEVLOPER", url="https://t.me/thavarajtj"),
                    ],
                    [
@@ -288,7 +288,7 @@ def yone_about_callback(update: Update, context: CallbackContext):
     ],
     [
         InlineKeyboardButton(text="SUPPORT_CHAT", url="https://t.me/Alinallmovies"),
-        InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/Techno_Trickop"),
+        InlineKeyboardButton(text="SUPPORT_CHANNEL", url="https://t.me/throwpathidpworld"),
     ],
     [
         InlineKeyboardButton(text="DEVLOPER", url="https://t.me/thavarajtj"),
